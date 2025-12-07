@@ -1,0 +1,74 @@
+line1
+
+line3
+
+
+line5
+
+line7
+
+	line9
+
+
+line11
+
+		line13
+
+
+line15
+
+
+rre
+srsblmrtb
+brrktbhm
+
+byh;r
+
+
+
+        tgvrst
+			
+Rtgr		
+		rag
+   
+ 
+				fy
+			
+ 
+
+S
+S
+ while (fgets(line, sizeof(line), f) != NULL) {
+            
+            if (line[strlen(line) - 1] == '\n') {
+                line[strlen(line) - 1] = '\0';
+            }
+            add_pattern(argument, line);
+            line_counter++;
+
+^int
+
+ 
+)$
+$$$
+$$
+$$$$$
+
+
+¥
+是我
+§«Õϖ‡€
+$$$$
+$
+
+$$
+$$
+$
+
+
+str          !
+
+
+     
+
+	 end.
